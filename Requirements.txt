@@ -1,7 +1,7 @@
-1.  Numpy
-2.  Pandas
-3.  Matplotlib
-4.  Scikit-learn
-5.  Pickle
-6.  Seaborn
-7.  Imblearn
+  Numpy
+  Pandas
+  Matplotlib
+  Scikit-learn
+  Pickle
+  Seaborn
+  Imblearn
